@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Bike",
+        "img":"https://p.kindpng.com/picc/s/219-2191611_red-motorcycle-clipart-hd-png-download.png",
+        "price":80
+    },
+    {
+        "id":2,
+        "name":"Car",
+        "img":"https://p.kindpng.com/picc/s/7-76242_red-toy-car-clipart-by-liz-free-clip.png",
+        "price":100
+    },
+    {
+        "id":3,
+        "name":"Bus",
+        "img":"https://p.kindpng.com/picc/s/6-67853_free-png-school-bus-school-bus-clipart-png.png",
+        "price":60
+    },
+    {
+        "id":4,
+        "name":"Train",
+        "img":"https://p.kindpng.com/picc/s/110-1100184_autonomous-train-hd-png-download.png",
+        "price":50
+    }
+    
+]

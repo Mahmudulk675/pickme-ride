@@ -1,0 +1,62 @@
+
+.destination-form{
+    margin:35px 90px;
+}
+.destination-form input{
+    display:block;
+    margin-top: 25px;
+    padding:5px;
+    border:1px solid gray;
+    border-radius:7px;
+    width:230px
+}
+.error{
+    color:red;
+}
+.submit-btn{
+    background-color:tomato;
+    color:white;
+    margin:10px 0px;
+    border-radius: 10px;
+}
+.rideOption{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    border:2px solid gray;
+    margin: 12px;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius:12px;
+}
+.rideOptionImg{
+    height:40px;
+}
+.userName{
+    justify-content:center;
+    text-align:center;
+}
+.map{
+    display:inline-block;
+    height:400px;
+    width:400px;
+    margin-top: 20px;
+}
+.timeLine{
+    background-color:tomato;
+    border-radius: 23px;
+    color:white;
+    margin-top: 15px;
+}
+.rideDetails{
+    background-color:rgb(226, 221, 221);
+    border-radius:23px;
+    margin: 20px;
+}
+.map{
+    /* margin-left: 30px; */
+    margin: auto;
+}
+p .passengerNum{
+    display: inline;
+}

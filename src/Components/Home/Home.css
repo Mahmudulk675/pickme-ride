@@ -1,0 +1,9 @@
+.home-component{
+    background-image: url(https://cutewallpaper.org/21/animated-city-backgrounds/Skyline-of-a-City-with-Stock-Footage-Video-100-Royalty-free-4757393-Shutterstock.jpg)  ;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  /* opacity: .8; */
+  justify-content: center;
+}
