@@ -1,0 +1,14 @@
+.inputForm{
+    border-top: 1px solid rgb(221, 48, 48);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+.inputForm input{
+   
+  margin: 10px;  
+}
+p{
+    cursor: pointer;
+}
